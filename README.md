@@ -12,7 +12,7 @@ cd my-docker-compose
 
 brew install docker-compose
 
-docker-compose 
+docker-compose up
 ```
 
 ### Linux
